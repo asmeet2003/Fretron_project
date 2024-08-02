@@ -174,6 +174,7 @@ public class CastleGame {
                     return true;
                 }
             }
+            
         }
         return false;
     }
