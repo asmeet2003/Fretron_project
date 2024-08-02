@@ -1,0 +1,32 @@
+Project Setup
+
+This project uses React for the frontend and Node.js for the backend. please Follow the steps below to set up and run the project:
+
+Frontend
+Create a React app:
+
+npx create-react-app frontend
+Move the frontend files into the src folder:
+
+Ensure all your React components and related files are placed inside the frontend/src folder.
+Run the frontend:
+
+
+cd frontend
+npm start
+
+
+Backend
+Create a backend folder:
+
+mkdir backend
+cd backend
+Initialize the Node.js project:
+
+npm init -y
+Add your backend files:
+
+Ensure backend file server.js, are placed inside the backend folder.
+Run the backend server:
+
+node server.js
